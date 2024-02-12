@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\H3OpgaveETL1.props" />
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3OpgaveETL1", "H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1.csproj", "{665ECD3F-957D-4AD8-A786-C150BDCC3CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3OpgaveETL1.Client", "H3OpgaveETL1\H3OpgaveETL1.Client\H3OpgaveETL1.Client.csproj", "{78765535-680C-4D5E-B1AF-2196487B1770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665ECD3F-957D-4AD8-A786-C150BDCC3CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665ECD3F-957D-4AD8-A786-C150BDCC3CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665ECD3F-957D-4AD8-A786-C150BDCC3CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665ECD3F-957D-4AD8-A786-C150BDCC3CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78765535-680C-4D5E-B1AF-2196487B1770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78765535-680C-4D5E-B1AF-2196487B1770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78765535-680C-4D5E-B1AF-2196487B1770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78765535-680C-4D5E-B1AF-2196487B1770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B827BD2A-47E8-4FCC-9202-332D35DFB4D6}
+	EndGlobalSection
+EndGlobal

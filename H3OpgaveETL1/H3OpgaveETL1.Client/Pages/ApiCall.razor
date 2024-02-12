@@ -1,0 +1,50 @@
+﻿@page "/apicall"
+@inject HttpClient HttpClient
+@inject IJSRuntime JSRuntime
+@using H3OpgaveETL1.Client.Code
+@using System.Data;
+
+<h3>CO2 Emissions Data</h3>
+
+@if(viewOutput != null)
+{
+    <table class="table">
+        <tr class="Tablerow">
+            @foreach (DataColumn dc in viewOutput.Columns)
+            {
+                <th style="box-shadow: 0px 0px 2px black; align-content:center;">@dc.ColumnName</th>
+            }
+        </tr>
+        @foreach (DataRow dr in viewOutput.Rows)
+        {
+            <tr class="Tablerow">
+                @foreach(DataColumn dc in viewOutput.Columns)
+                {
+                    <td style="box-shadow: 0px 0px 2px black; align-content:center;">
+                        @dr[dc.ColumnName]
+                    </td>
+                }
+            </tr>
+        }
+    </table>
+
+}
+
+@code {
+    private DataTable? viewOutput { set; get; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        var Apiurl = "https://api.energidataservice.dk/dataset/CO2Emis?limit=5";
+
+        string saveTo = Utility.GetMyCurrentDir();
+        string extractedJson = await new Extract().GetDataAsJsonAsync(Apiurl);
+        string transformedData = new Transform().ConvertJsonToString(extractedJson);
+        bool success = new Load().LoadToCsv(saveTo, transformedData);
+
+        if(success)
+        {
+            viewOutput = new Transform().ConvertJsonToDataTable(extractedJson);
+        }
+    }
+}

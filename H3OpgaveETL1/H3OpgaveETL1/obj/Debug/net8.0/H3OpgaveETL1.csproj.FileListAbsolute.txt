@@ -1,0 +1,108 @@
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.Client.staticwebassets.runtime.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\appsettings.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.staticwebassets.runtime.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.exe
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.deps.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.runtimeconfig.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.pdb
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.Client.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.Client.pdb
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.csproj.AssemblyReference.cache
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.AssemblyInfoInputs.cache
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.AssemblyInfo.cs
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.csproj.CoreCompileInputs.cache
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets\msbuild.H3OpgaveETL1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets\msbuild.build.H3OpgaveETL1.props
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.H3OpgaveETL1.props
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.H3OpgaveETL1.props
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\scopedcss\bundle\H3OpgaveETL1.styles.css
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.csproj.CopyComplete
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\refint\H3OpgaveETL1.dll
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.pdb
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.genruntimeconfig.cache
+C:\Users\lukr\Desktop\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\ref\H3OpgaveETL1.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\appsettings.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.Client.staticwebassets.runtime.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.staticwebassets.runtime.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.exe
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.deps.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.runtimeconfig.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.pdb
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.Client.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\bin\Debug\net8.0\H3OpgaveETL1.Client.pdb
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.csproj.AssemblyReference.cache
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.AssemblyInfoInputs.cache
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.AssemblyInfo.cs
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets\msbuild.H3OpgaveETL1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets\msbuild.build.H3OpgaveETL1.props
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.H3OpgaveETL1.props
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.H3OpgaveETL1.props
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\scopedcss\bundle\H3OpgaveETL1.styles.css
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.csproj.CopyComplete
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\refint\H3OpgaveETL1.dll
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.pdb
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\H3OpgaveETL1.genruntimeconfig.cache
+C:\Users\Lucas Lupin Kramhöft\Source\H3\BigData1\H3OpgaveETL1\H3OpgaveETL1\H3OpgaveETL1\obj\Debug\net8.0\ref\H3OpgaveETL1.dll

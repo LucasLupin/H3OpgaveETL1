@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\H3OpgaveETL1.props" />
+</Project>
